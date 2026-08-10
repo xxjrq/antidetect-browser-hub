@@ -1,0 +1,30 @@
+name: Add a resource
+description: Suggest a browser, tool, library or research resource.
+title: "[resource] "
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Official URL
+    validations:
+      required: true
+  - type: textarea
+    id: summary
+    attributes:
+      label: Short factual summary
+    validations:
+      required: true
+  - type: textarea
+    id: category
+    attributes:
+      label: Category and status
+      placeholder: "Category: detection / Status: active"
+    validations:
+      required: true
+

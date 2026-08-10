@@ -1,0 +1,17 @@
+name: Broken link
+description: Report a link that no longer works.
+title: "[link] "
+body:
+  - type: input
+    id: file
+    attributes:
+      label: Markdown file
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Broken URL
+    validations:
+      required: true
+

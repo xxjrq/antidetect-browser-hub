@@ -1,0 +1,21 @@
+name: Incorrect information
+description: Report an outdated or incorrect entry.
+title: "[correction] "
+body:
+  - type: input
+    id: page
+    attributes:
+      label: File or section
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is incorrect?
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source or replacement URL
+
