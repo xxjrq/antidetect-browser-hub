@@ -1,0 +1,14 @@
+{
+  "schemaVersion": "1.0",
+  "useCases": [
+    {"id":"cross-border-commerce","name":"跨境电商","recommendedCategories":["profile-isolation","proxy-management","localization-testing"]},
+    {"id":"amazon-seller","name":"Amazon Seller","recommendedCategories":["profile-isolation","team-workflows","browser-testing"]},
+    {"id":"tiktok-marketing","name":"TikTok Marketing","recommendedCategories":["profile-isolation","proxy-management","mobile-testing"]},
+    {"id":"facebook-ads","name":"Facebook Ads","recommendedCategories":["profile-isolation","team-workflows","localization-testing"]},
+    {"id":"affiliate","name":"Affiliate Marketing","recommendedCategories":["profile-isolation","automation","analytics"]},
+    {"id":"web3","name":"Web3","recommendedCategories":["profile-isolation","extension-isolation","security-testing"]},
+    {"id":"qa-localization","name":"网站测试与本地化 QA","recommendedCategories":["browser-testing","timezone-testing","device-testing"]},
+    {"id":"data-collection","name":"合规数据采集","recommendedCategories":["automation","rate-limiting","privacy-review"]},
+    {"id":"ai-agent","name":"AI Agent 浏览器操作","recommendedCategories":["automation","browser-testing","observability"]}
+  ]
+}

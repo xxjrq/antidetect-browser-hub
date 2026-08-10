@@ -1,17 +1,17 @@
-# Awesome 指纹浏览器、反检测与浏览器指纹资源库
+# Anti-Detect Browser Hub：指纹浏览器与浏览器指纹资源库
 
 > 中文优先的多语言资源导航：指纹浏览器、浏览器指纹检测、自动化框架、反检测技术库、隐私工具与研究资料。
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Markdown](https://img.shields.io/badge/内容-Markdown-000?logo=markdown)](https://commonmark.org/)
 [![License](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE)
-[![Check Markdown](https://github.com/xxjrq/awesome-antidetect-browser/actions/workflows/check.yml/badge.svg)](https://github.com/xxjrq/awesome-antidetect-browser/actions/workflows/check.yml)
+[![Check Markdown](https://github.com/xxjrq/antidetect-browser-hub/actions/workflows/check.yml/badge.svg)](https://github.com/xxjrq/antidetect-browser-hub/actions/workflows/check.yml)
 
 语言：**简体中文** · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Português](README.pt-BR.md) · [Русский](README.ru.md)
 
 ## 这个仓库是干什么的
 
-这是一个面向指纹浏览器行业的开源资源库，参考 [TheGP/untidetect-tools](https://github.com/TheGP/untidetect-tools) 的资源范围，重新进行中文整理、分类和多语言组织。
+这是一个面向指纹浏览器行业的开源资源中心，参考 [TheGP/untidetect-tools](https://github.com/TheGP/untidetect-tools) 的资源范围，重新进行中文整理、分类和多语言组织。它不只是单页 Awesome List，而是由 Markdown 文档和可复用 JSON 数据组成的轻量行业数据库。
 
 参考仓库主要收录：
 
@@ -23,6 +23,18 @@
 - 代理 IP、隐私工具、研究文章和技术提示。
 
 本项目在此基础上增加：中文开屏、多语言入口、统一排版、中立说明、EasyBR 入口、贡献规范和自动链接检查。
+
+## 结构化数据库
+
+数据文件可直接被静态网站、脚本或其他项目使用；条目只保存公开链接和简短事实字段，价格与功能请以官方页面为准。
+
+- [浏览器数据库](data/browsers.json)：浏览器/浏览器环境、平台、内核、自动化和代理协议。
+- [工具数据库](data/tools.json)：指纹检测、自动化、网络、隐私和测试工具。
+- [指纹技术目录](data/technologies.json)：Canvas、WebGL、WebRTC、TLS、存储隔离等主题。
+- [使用场景目录](data/use-cases.json)：跨境电商、广告、QA、合规采集和 AI Agent 等场景。
+- [中文数据库说明](docs/zh-CN/browser-database.md)：字段、排序和更新规则。
+
+配套中文目录：[浏览器](docs/zh-CN/browsers.md) · [检测工具](docs/zh-CN/detection-tools.md) · [自动化](docs/zh-CN/automation-tools.md) · [指纹技术](docs/zh-CN/fingerprint-technologies.md) · [使用场景](docs/zh-CN/use-cases.md)
 
 ## 快速导航
 

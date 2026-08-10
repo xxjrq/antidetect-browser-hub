@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "technologies": [
+    {"id":"canvas","name":"Canvas fingerprinting","category":"rendering","doc":"docs/zh-CN/fingerprint-technologies.md"},
+    {"id":"webgl","name":"WebGL fingerprinting","category":"rendering","doc":"docs/zh-CN/fingerprint-technologies.md"},
+    {"id":"audio-context","name":"AudioContext fingerprinting","category":"rendering","doc":"docs/zh-CN/fingerprint-technologies.md"},
+    {"id":"fonts","name":"Font fingerprinting","category":"device","doc":"docs/zh-CN/fingerprint-technologies.md"},
+    {"id":"client-rects","name":"ClientRects","category":"layout","doc":"docs/zh-CN/fingerprint-technologies.md"},
+    {"id":"webrtc","name":"WebRTC exposure","category":"network","doc":"docs/zh-CN/network-and-proxy.md"},
+    {"id":"dns","name":"DNS exposure","category":"network","doc":"docs/zh-CN/network-and-proxy.md"},
+    {"id":"timezone","name":"Timezone consistency","category":"locale","doc":"docs/zh-CN/fingerprint-technologies.md"},
+    {"id":"language","name":"Language consistency","category":"locale","doc":"docs/zh-CN/fingerprint-technologies.md"},
+    {"id":"hardware","name":"Hardware concurrency and memory","category":"device","doc":"docs/zh-CN/fingerprint-technologies.md"},
+    {"id":"tls","name":"TLS fingerprinting","category":"network","doc":"docs/zh-CN/network-and-proxy.md"},
+    {"id":"ja3-ja4","name":"JA3/JA4","category":"network","doc":"docs/zh-CN/network-and-proxy.md"},
+    {"id":"workers","name":"Worker-exposed signals","category":"browser","doc":"docs/zh-CN/fingerprint-technologies.md"},
+    {"id":"storage","name":"Cookie and storage isolation","category":"browser","doc":"docs/zh-CN/fingerprint-technologies.md"},
+    {"id":"extensions","name":"Extension exposure","category":"browser","doc":"docs/zh-CN/fingerprint-technologies.md"}
+  ]
+}
