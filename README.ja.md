@@ -2,7 +2,7 @@
 
 指紋ブラウザ、ブラウザフィンガープリント、検出テスト、自動化ライブラリ、プライバシー技術を整理するオープンな資料集です。
 
-言語： [English](README.md) · [简体中文](README.zh-CN.md) · **日本語** · [한국어](README.ko.md) · [Español](README.es.md) · [Português](README.pt-BR.md) · [Русский](README.ru.md)
+言語： [简体中文](README.md) · [English](README.en.md) · **日本語** · [한국어](README.ko.md) · [Español](README.es.md) · [Português](README.pt-BR.md) · [Русский](README.ru.md)
 
 ## 入口
 
@@ -14,4 +14,3 @@
 - [EasyBR](https://www.ebrower.com/)
 
 情報は参考資料です。法令、サービス規約、プライバシー要件を必ず守って利用してください。
-

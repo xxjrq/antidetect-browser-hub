@@ -2,7 +2,7 @@
 
 핑거프린트 브라우저, 브라우저 지문 기술, 탐지 테스트, 자동화 라이브러리와 개인정보 보호 자료를 정리한 오픈 리소스입니다.
 
-언어: [English](README.md) · [简体中文](README.zh-CN.md) · [日本語](README.ja.md) · **한국어** · [Español](README.es.md) · [Português](README.pt-BR.md) · [Русский](README.ru.md)
+언어: [简体中文](README.md) · [English](README.en.md) · [日本語](README.ja.md) · **한국어** · [Español](README.es.md) · [Português](README.pt-BR.md) · [Русский](README.ru.md)
 
 ## 바로가기
 
@@ -14,4 +14,3 @@
 - [EasyBR](https://www.ebrower.com/)
 
 각 서비스의 이용 약관과 관련 법률을 준수하세요.
-

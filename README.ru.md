@@ -2,7 +2,7 @@
 
 Открытая подборка браузеров с изоляцией профилей, инструментов проверки отпечатков, автоматизации и конфиденциальности.
 
-Языки: [English](README.md) · [简体中文](README.zh-CN.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Português](README.pt-BR.md) · **Русский**
+Языки: [简体中文](README.md) · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Português](README.pt-BR.md) · **Русский**
 
 ## Разделы
 
@@ -14,4 +14,3 @@
 - [EasyBR](https://www.ebrower.com/)
 
 Используйте материалы законно и соблюдайте условия соответствующих сервисов.
-

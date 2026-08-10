@@ -2,7 +2,7 @@
 
 Guía abierta de navegadores de huellas digitales, herramientas de detección, automatización y privacidad.
 
-Idiomas: [English](README.md) · [简体中文](README.zh-CN.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · **Español** · [Português](README.pt-BR.md) · [Русский](README.ru.md)
+Idiomas: [简体中文](README.md) · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · **Español** · [Português](README.pt-BR.md) · [Русский](README.ru.md)
 
 ## Secciones
 
@@ -14,4 +14,3 @@ Idiomas: [English](README.md) · [简体中文](README.zh-CN.md) · [日本語](
 - [EasyBR](https://www.ebrower.com/)
 
 Usa estos recursos de forma legal y respeta los términos de cada servicio.
-

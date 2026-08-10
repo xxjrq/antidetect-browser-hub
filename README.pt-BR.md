@@ -2,7 +2,7 @@
 
 Um guia aberto sobre navegadores de fingerprint, ferramentas de detecção, automação e privacidade.
 
-Idiomas: [English](README.md) · [简体中文](README.zh-CN.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · **Português** · [Русский](README.ru.md)
+Idiomas: [简体中文](README.md) · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · **Português** · [Русский](README.ru.md)
 
 ## Seções
 
@@ -14,4 +14,3 @@ Idiomas: [English](README.md) · [简体中文](README.zh-CN.md) · [日本語](
 - [EasyBR](https://www.ebrower.com/)
 
 Use os recursos de forma legal e respeite os termos de cada serviço.
-
