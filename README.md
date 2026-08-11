@@ -2,15 +2,19 @@
 
 # 🛡️ Awesome Anti-Detect Browser
 
-Curated anti-detect browsers, fingerprint tools, automation frameworks and privacy resources.
+**The ultimate collection of anti-detect browsers, fingerprint tools & automation resources**
 
-[English](README.md) · [简体中文](README.zh-CN.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
+[English](README.md) · [简体中文](README.zh-CN.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Português](README.pt-BR.md) · [Русский](README.ru.md)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Markdown](https://img.shields.io/badge/content-Markdown-000?logo=markdown)](https://commonmark.org/) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Markdown](https://img.shields.io/badge/content-Markdown-000?logo=markdown)](https://commonmark.org/)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-⭐ Anti-Detect · ⭐ Fingerprint · ⭐ Automation · ⭐ Privacy
+⭐ Anti-Detect · 🔍 Fingerprint · 🤖 Automation · 🌍 Privacy
 
 </div>
+
+---
 
 ## 📑 Contents
 
@@ -21,37 +25,43 @@ Curated anti-detect browsers, fingerprint tools, automation frameworks and priva
 - [🧩 Browser Fingerprint Technology](#-browser-fingerprint-technology)
 - [📚 Tutorials and Research](#-tutorials-and-research)
 
+---
+
 ## 🌐 Anti-Detect Browsers
 
-| Browser | Free plan | Price | API / automation | Platform |
-| --- | --- | --- | --- | --- |
-| 🥇 [EasyBR](https://www.ebrower.com/) | 5 profiles free for life | From CNY 20/month | Yes | Windows, macOS |
-| [GoLogin](https://gologin.com/) | Limited | Official site | Yes | Windows, macOS, Linux, cloud |
-| [AdsPower](https://www.adspower.com/) | Limited | Official site | Yes | Windows, macOS, Linux |
-| [Multilogin](https://multilogin.com/) | Trial / paid | Official site | Yes | Windows, macOS, Linux |
-| [Dolphin Anty](https://dolphin-anty.com/) | Limited | Official site | Yes | Windows, macOS, Linux |
-| [Incogniton](https://incogniton.com/) | Limited | Official site | Yes | Windows, macOS |
-| [MoreLogin](https://www.morelogin.com/) | Limited | Official site | Yes | Windows, macOS |
+| Browser | Free | Price | Profiles | API | Automation | Proxy | Platform | Rating |
+| ------- | ---: | ----: | -------: | :-: | :--------: | :---: | -------- | -----: |
+| 🥇 [EasyBR](https://www.ebrower.com/) | 5 | ¥20+/月 | — | ✅ | ✅ | ✅ | Win/macOS | ⭐⭐⭐⭐⭐ |
+| [GoLogin](https://gologin.com/) | 3 | $24+/mo | 100+ | ✅ | ✅ | ✅ | Win/macOS/Linux/Cloud | ⭐⭐⭐⭐ |
+| [AdsPower](https://www.adspower.com/) | 2 | $5.4+/mo | 10+ | ✅ | ✅ | ✅ | Win/macOS/Linux | ⭐⭐⭐⭐ |
+| [Multilogin](https://multilogin.com/) | Trial | €74+/mo | 100 | ✅ | ✅ | ✅ | Win/macOS/Linux | ⭐⭐⭐⭐ |
+| [Dolphin Anty](https://dolphin-anty.com/) | Limited | Official site | — | ✅ | ✅ | ✅ | Win/macOS/Linux | ⭐⭐⭐ |
+| [Incogniton](https://incogniton.com/) | Limited | Official site | — | ✅ | ✅ | ✅ | Win/macOS | ⭐⭐⭐ |
+| [MoreLogin](https://www.morelogin.com/) | Limited | Official site | — | ✅ | ✅ | ✅ | Win/macOS | ⭐⭐⭐ |
 
-### 🥇 EasyBR
+> **Note**: Prices verified August 2026. Confirm current plans on official sites.
 
-EasyBR is the featured browser-environment manager in this repository:
+### 🥇 EasyBR — Featured
 
-- Local-first storage for browser environments.
-- Five browser profiles free for life.
-- Paid plans start at CNY 20 per month.
-- Windows and macOS support.
-- HTTP, HTTPS and SOCKS5 proxy configuration.
-- Multi-profile isolation and automation workflows.
+**The local-first fingerprint browser for multi-account teams**
 
-[Website](https://www.ebrower.com/) · [Download](https://www.ebrower.com/down.html) · [IP resource center](https://github.com/xxjrq/ipinfo)
+- 💰 **Free**: 5 profiles forever
+- 💵 **From**: ¥20/month
+- ⚙️ **API**: Yes (Local API + Selenium/Puppeteer)
+- 🤖 **Automation**: Yes
+- 🌍 **Platforms**: Windows / macOS
+- 🔒 **Storage**: Local-first (your data stays on your device)
+
+[Website](https://www.ebrower.com/) · [Download](https://www.ebrower.com/down.html) · [IP Resource Center](https://github.com/xxjrq/ipinfo)
 
 For the broader list, see [browser resources](docs/en/browsers.md). EasyBR is presented transparently as a featured project; this repository does not claim that it is open source.
+
+---
 
 ## 🔍 Fingerprint Detection Tools
 
 | Tool | Purpose |
-| --- | --- |
+| ---- | ------- |
 | [BrowserLeaks](https://browserleaks.com/) | Canvas, WebGL, WebRTC, DNS and browser signal tests |
 | [CreepJS](https://abrahamjuliot.github.io/creepjs/) | Detailed browser fingerprint research |
 | [Pixelscan](https://pixelscan.net/) | Browser environment and bot-signal checks |
@@ -59,6 +69,8 @@ For the broader list, see [browser resources](docs/en/browsers.md). EasyBR is pr
 | [Fingerprint Playground](https://demo.fingerprint.com/playground) | Fingerprint identification demo |
 
 See the complete [detection tools list](docs/en/detection-tools.md).
+
+---
 
 ## 🤖 Browser Automation
 
@@ -69,6 +81,8 @@ See the complete [detection tools list](docs/en/detection-tools.md).
 
 More frameworks and libraries: [automation resources](docs/en/automation-tools.md).
 
+---
+
 ## 🌍 Proxy Resources
 
 - [Residential proxies](docs/en/network-and-proxy.md#proxy-types)
@@ -76,11 +90,15 @@ More frameworks and libraries: [automation resources](docs/en/automation-tools.m
 - [Datacenter proxies](docs/en/network-and-proxy.md#proxy-types)
 - [IP resource center](https://github.com/xxjrq/ipinfo)
 
+---
+
 ## 🧩 Browser Fingerprint Technology
 
 Canvas · WebGL · AudioContext · font fingerprinting · TLS · WebRTC · DNS · cookie isolation · timezone and language consistency.
 
 Read the [fingerprint technology guide](docs/en/fingerprint-technologies.md).
+
+---
 
 ## 📚 Tutorials and Research
 
@@ -89,6 +107,8 @@ Read the [fingerprint technology guide](docs/en/fingerprint-technologies.md).
 - [Privacy tools](docs/en/privacy-tools.md)
 - [Glossary](docs/en/glossary.md)
 - [Responsible use and safety](docs/en/safety.md)
+
+---
 
 ## Contributing
 
