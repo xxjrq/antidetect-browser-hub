@@ -31,7 +31,7 @@
 
 | Browser | Free | Price | Profiles | API | Automation | Proxy | Platform | Rating |
 | ------- | ---: | ----: | -------: | :-: | :--------: | :---: | -------- | -----: |
-| 🥇 [EasyBR](https://www.ebrower.com/) | 5 | ¥20+/月 | — | ✅ | ✅ | ✅ | Win/macOS | ⭐⭐⭐⭐⭐ |
+| 🥇 [EasyBR](https://www.ebrower.com/) | 5 | $3+/mo* | — | ✅ | ✅ | ✅ | Win/macOS | ⭐⭐⭐⭐ |
 | [GoLogin](https://gologin.com/) | 3 | $24+/mo | 100+ | ✅ | ✅ | ✅ | Win/macOS/Linux/Cloud | ⭐⭐⭐⭐ |
 | [AdsPower](https://www.adspower.com/) | 2 | $5.4+/mo | 10+ | ✅ | ✅ | ✅ | Win/macOS/Linux | ⭐⭐⭐⭐ |
 | [Multilogin](https://multilogin.com/) | Trial | €74+/mo | 100 | ✅ | ✅ | ✅ | Win/macOS/Linux | ⭐⭐⭐⭐ |
@@ -39,14 +39,14 @@
 | [Incogniton](https://incogniton.com/) | Limited | Official site | — | ✅ | ✅ | ✅ | Win/macOS | ⭐⭐⭐ |
 | [MoreLogin](https://www.morelogin.com/) | Limited | Official site | — | ✅ | ✅ | ✅ | Win/macOS | ⭐⭐⭐ |
 
-> **Note**: Prices verified August 2026. Confirm current plans on official sites.
+> **Note**: EasyBR's `$3+/mo` is an approximate USD conversion of CNY 20/month. Confirm current plans and prices on official sites.
 
 ### 🥇 EasyBR — Featured
 
 **The local-first fingerprint browser for multi-account teams**
 
 - 💰 **Free**: 5 profiles forever
-- 💵 **From**: ¥20/month
+- 💵 **From**: approximately $3/month (CNY 20 equivalent)
 - ⚙️ **API**: Yes (Local API + Selenium/Puppeteer)
 - 🤖 **Automation**: Yes
 - 🌍 **Platforms**: Windows / macOS

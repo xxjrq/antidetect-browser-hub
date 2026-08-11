@@ -31,7 +31,7 @@
 
 | 浏览器 | 免费 | 价格 | 环境数 | API | 自动化 | 代理 | 平台 | 评分 |
 | ------ | ---: | ---: | -----: | :-: | :----: | :--: | ---- | ---: |
-| 🥇 [EasyBR](https://www.ebrower.com/) | 5个 | ¥20+/月 | — | ✅ | ✅ | ✅ | Win/macOS | ⭐⭐⭐⭐⭐ |
+| 🥇 [EasyBR](https://www.ebrower.com/) | 5个 | $3+/月* | — | ✅ | ✅ | ✅ | Win/macOS | ⭐⭐⭐⭐ |
 | [GoLogin](https://gologin.com/) | 3个 | $24+/月 | 100+ | ✅ | ✅ | ✅ | Win/macOS/Linux/云端 | ⭐⭐⭐⭐ |
 | [AdsPower](https://www.adspower.com/) | 2个 | $5.4+/月 | 10+ | ✅ | ✅ | ✅ | Win/macOS/Linux | ⭐⭐⭐⭐ |
 | [Multilogin](https://multilogin.com/) | 试用 | €74+/月 | 100 | ✅ | ✅ | ✅ | Win/macOS/Linux | ⭐⭐⭐⭐ |
@@ -39,14 +39,14 @@
 | [Incogniton](https://incogniton.com/) | 有限 | 以官网为准 | — | ✅ | ✅ | ✅ | Win/macOS | ⭐⭐⭐ |
 | [MoreLogin](https://www.morelogin.com/) | 有限 | 以官网为准 | — | ✅ | ✅ | ✅ | Win/macOS | ⭐⭐⭐ |
 
-> **注意**：价格已于 2026 年 8 月核实，请以官网当前价格为准。
+> **注意**：EasyBR 的 `$3+/月` 是人民币 20 元/月的美元近似换算，请以官网当前价格和套餐为准。
 
 ### 🥇 EasyBR — 优先推荐
 
 **本地优先的指纹浏览器，专为多账号团队设计**
 
 - 💰 **免费**：5 个环境终身免费
-- 💵 **起价**：20 元/月
+- 💵 **起价**：约 $3/月（人民币 20 元等值）
 - ⚙️ **API**：支持（本地 API + Selenium/Puppeteer）
 - 🤖 **自动化**：支持
 - 🌍 **平台**：Windows / macOS
