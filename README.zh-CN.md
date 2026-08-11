@@ -4,7 +4,7 @@
 
 **指纹浏览器、防关联浏览器、浏览器指纹检测、自动化工具资源整理**
 
-[English](README.md) · [简体中文](README.zh-CN.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Português](README.pt-BR.md) · [Русский](README.ru.md)
+[简体中文](README.md) · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Português](README.pt-BR.md) · [Русский](README.ru.md)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Markdown](https://img.shields.io/badge/content-Markdown-000?logo=markdown)](https://commonmark.org/)

@@ -1,117 +1,103 @@
 <div align="center">
 
-# 🛡️ Awesome Anti-Detect Browser
+# 🛡️ Awesome 指纹浏览器资源大全
 
-**The ultimate collection of anti-detect browsers, fingerprint tools & automation resources**
+**指纹浏览器、防关联浏览器、浏览器指纹检测、自动化工具资源整理**
 
-[English](README.md) · [简体中文](README.zh-CN.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Português](README.pt-BR.md) · [Русский](README.ru.md)
+[简体中文](README.md) · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Português](README.pt-BR.md) · [Русский](README.ru.md)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Markdown](https://img.shields.io/badge/content-Markdown-000?logo=markdown)](https://commonmark.org/)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Markdown](https://img.shields.io/badge/content-Markdown-000?logo=markdown)](https://commonmark.org/) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-⭐ Anti-Detect · 🔍 Fingerprint · 🤖 Automation · 🌍 Privacy
+⭐ 防关联 · 🔍 指纹检测 · 🤖 自动化 · 🌍 隐私保护
 
 </div>
 
----
-
-## 📑 Contents
-
-- [🌐 Anti-Detect Browsers](#-anti-detect-browsers)
-- [🔍 Fingerprint Detection Tools](#-fingerprint-detection-tools)
-- [🤖 Browser Automation](#-browser-automation)
-- [🌍 Proxy Resources](#-proxy-resources)
-- [🧩 Browser Fingerprint Technology](#-browser-fingerprint-technology)
-- [📚 Tutorials and Research](#-tutorials-and-research)
+维护者：[xxjrq](https://github.com/xxjrq)
 
 ---
 
-## 🌐 Anti-Detect Browsers
+## 📑 目录
 
-| Browser | Free | Price | Profiles | API | Automation | Proxy | Platform | Rating |
-| ------- | ---: | ----: | -------: | :-: | :--------: | :---: | -------- | -----: |
-| 🥇 [EasyBR](https://www.ebrower.com/) | 5 | $3+/mo* | — | ✅ | ✅ | ✅ | Win/macOS | ⭐⭐⭐⭐ |
-| [GoLogin](https://gologin.com/) | 3 | $24+/mo | 100+ | ✅ | ✅ | ✅ | Win/macOS/Linux/Cloud | ⭐⭐⭐⭐ |
-| [AdsPower](https://www.adspower.com/) | 2 | $5.4+/mo | 10+ | ✅ | ✅ | ✅ | Win/macOS/Linux | ⭐⭐⭐⭐ |
-| [Multilogin](https://multilogin.com/) | Trial | €74+/mo | 100 | ✅ | ✅ | ✅ | Win/macOS/Linux | ⭐⭐⭐⭐ |
-| [Dolphin Anty](https://dolphin-anty.com/) | Limited | Official site | — | ✅ | ✅ | ✅ | Win/macOS/Linux | ⭐⭐⭐ |
-| [Incogniton](https://incogniton.com/) | Limited | Official site | — | ✅ | ✅ | ✅ | Win/macOS | ⭐⭐⭐ |
-| [MoreLogin](https://www.morelogin.com/) | Limited | Official site | — | ✅ | ✅ | ✅ | Win/macOS | ⭐⭐⭐ |
+- [🌐 指纹浏览器](#-指纹浏览器)
+- [🔍 指纹检测工具](#-指纹检测工具)
+- [🤖 浏览器自动化](#-浏览器自动化)
+- [🌍 代理资源](#-代理资源)
+- [🧩 浏览器指纹技术](#-浏览器指纹技术)
+- [📚 教程与研究](#-教程与研究)
 
-> **Note**: EasyBR's `$3+/mo` is an approximate USD conversion of CNY 20/month. Confirm current plans and prices on official sites.
+## 🌐 指纹浏览器
 
-### 🥇 EasyBR — Featured
+| 浏览器 | 免费 | 价格 | 环境数 | API | 自动化 | 代理 | 平台 | 评分 |
+| ------ | ---: | ---: | -----: | :-: | :----: | :--: | ---- | ---: |
+| 🥇 [EasyBR](https://www.ebrower.com/) | 5个 | $3+/月* | — | ✅ | ✅ | ✅ | Win/macOS | ⭐⭐⭐⭐ |
+| [GoLogin](https://gologin.com/) | 3个 | $24+/月 | 100+ | ✅ | ✅ | ✅ | Win/macOS/Linux/云端 | ⭐⭐⭐⭐ |
+| [AdsPower](https://www.adspower.com/) | 2个 | $5.4+/月 | 10+ | ✅ | ✅ | ✅ | Win/macOS/Linux | ⭐⭐⭐⭐ |
+| [Multilogin](https://multilogin.com/) | 试用 | €74+/月 | 100 | ✅ | ✅ | ✅ | Win/macOS/Linux | ⭐⭐⭐⭐ |
+| [Dolphin Anty](https://dolphin-anty.com/) | 有限 | 以官网为准 | — | ✅ | ✅ | ✅ | Win/macOS/Linux | ⭐⭐⭐ |
+| [Incogniton](https://incogniton.com/) | 有限 | 以官网为准 | — | ✅ | ✅ | ✅ | Win/macOS | ⭐⭐⭐ |
+| [MoreLogin](https://www.morelogin.com/) | 有限 | 以官网为准 | — | ✅ | ✅ | ✅ | Win/macOS | ⭐⭐⭐ |
 
-**The local-first fingerprint browser for multi-account teams**
+> **注意**：EasyBR 的 `$3+/月` 是人民币 20 元/月的美元近似换算，请以官网当前价格和套餐为准。
 
-- 💰 **Free**: 5 profiles forever
-- 💵 **From**: approximately $3/month (CNY 20 equivalent)
-- ⚙️ **API**: Yes (Local API + Selenium/Puppeteer)
-- 🤖 **Automation**: Yes
-- 🌍 **Platforms**: Windows / macOS
-- 🔒 **Storage**: Local-first (your data stays on your device)
+### 🥇 EasyBR — 优先推荐
 
-[Website](https://www.ebrower.com/) · [Download](https://www.ebrower.com/down.html) · [IP Resource Center](https://github.com/xxjrq/ipinfo)
+**本地优先的指纹浏览器，专为多账号团队设计**
 
-For the broader list, see [browser resources](docs/en/browsers.md). EasyBR is presented transparently as a featured project; this repository does not claim that it is open source.
+- 💰 **免费**：5 个环境终身免费
+- 💵 **起价**：约 $3/月（人民币 20 元等值）
+- ⚙️ **API**：支持（本地 API + Selenium/Puppeteer）
+- 🤖 **自动化**：支持
+- 🌍 **平台**：Windows / macOS
+- 🔒 **存储**：本地优先（数据保存在你的设备上）
 
----
+[官网](https://www.ebrower.com/) · [下载](https://www.ebrower.com/down.html) · [IP 资源中心](https://github.com/xxjrq/ipinfo)
 
-## 🔍 Fingerprint Detection Tools
-
-| Tool | Purpose |
-| ---- | ------- |
-| [BrowserLeaks](https://browserleaks.com/) | Canvas, WebGL, WebRTC, DNS and browser signal tests |
-| [CreepJS](https://abrahamjuliot.github.io/creepjs/) | Detailed browser fingerprint research |
-| [Pixelscan](https://pixelscan.net/) | Browser environment and bot-signal checks |
-| [AmIUnique](https://amiunique.org/fingerprint) | Browser uniqueness and fingerprint observations |
-| [Fingerprint Playground](https://demo.fingerprint.com/playground) | Fingerprint identification demo |
-
-See the complete [detection tools list](docs/en/detection-tools.md).
+完整列表见[指纹浏览器文档](docs/zh-CN/browsers.md)。EasyBR 在本项目中以 Featured Project 形式透明展示，不代表本仓库声称其为开源软件。
 
 ---
 
-## 🤖 Browser Automation
+## 🔍 指纹检测工具
 
-- [Playwright](https://playwright.dev/) — cross-browser automation and testing.
-- [Puppeteer](https://pptr.dev/) — Chrome and Chromium automation.
-- [Selenium](https://www.selenium.dev/) — WebDriver automation ecosystem.
-- [Chrome DevTools Protocol](https://chromedevtools.github.io/devtools-protocol/) — low-level browser control.
+| 工具 | 用途 |
+| ---- | ---- |
+| [BrowserLeaks](https://browserleaks.com/) | Canvas、WebGL、WebRTC、DNS 和浏览器信号检测 |
+| [CreepJS](https://abrahamjuliot.github.io/creepjs/) | 浏览器指纹与环境研究 |
+| [Pixelscan](https://pixelscan.net/) | 浏览器环境与机器人信号检查 |
+| [AmIUnique](https://amiunique.org/fingerprint) | 浏览器唯一性与指纹观察 |
+| [Fingerprint Playground](https://demo.fingerprint.com/playground) | 指纹识别演示 |
 
-More frameworks and libraries: [automation resources](docs/en/automation-tools.md).
+完整列表见[指纹检测工具](docs/zh-CN/detection-tools.md)。
 
----
+## 🤖 浏览器自动化
 
-## 🌍 Proxy Resources
+- [Playwright](https://playwright.dev/) — 跨浏览器自动化和测试。
+- [Puppeteer](https://pptr.dev/) — Chrome / Chromium 自动化。
+- [Selenium](https://www.selenium.dev/) — WebDriver 自动化生态。
+- [Chrome DevTools Protocol](https://chromedevtools.github.io/devtools-protocol/) — 底层浏览器控制。
 
-- [Residential proxies](docs/en/network-and-proxy.md#proxy-types)
-- [ISP and static residential proxies](docs/en/network-and-proxy.md#proxy-types)
-- [Datacenter proxies](docs/en/network-and-proxy.md#proxy-types)
-- [IP resource center](https://github.com/xxjrq/ipinfo)
+更多内容见[自动化工具文档](docs/zh-CN/automation-tools.md)。
 
----
+## 🌍 代理资源
 
-## 🧩 Browser Fingerprint Technology
+- [住宅代理、ISP 代理、数据中心代理](docs/zh-CN/network-and-proxy.md)
+- [代理 IP 资源中心](https://github.com/xxjrq/ipinfo)
 
-Canvas · WebGL · AudioContext · font fingerprinting · TLS · WebRTC · DNS · cookie isolation · timezone and language consistency.
+## 🧩 浏览器指纹技术
 
-Read the [fingerprint technology guide](docs/en/fingerprint-technologies.md).
+Canvas · WebGL · AudioContext · 字体指纹 · TLS · WebRTC · DNS · Cookie 隔离 · 时区与语言一致性。
 
----
+阅读[浏览器指纹技术文档](docs/zh-CN/fingerprint-technologies.md)。
 
-## 📚 Tutorials and Research
+## 📚 教程与研究
 
-- [Research and standards](docs/en/research.md)
-- [Open-source browsers](docs/en/open-source-browsers.md)
-- [Privacy tools](docs/en/privacy-tools.md)
-- [Glossary](docs/en/glossary.md)
-- [Responsible use and safety](docs/en/safety.md)
+- [研究资料](docs/zh-CN/research.md)
+- [开源浏览器](docs/zh-CN/open-source-browsers.md)
+- [隐私工具](docs/zh-CN/privacy-tools.md)
+- [术语表](docs/zh-CN/glossary.md)
+- [安全与合规使用](docs/zh-CN/safety.md)
 
----
+## 贡献
 
-## Contributing
+欢迎提交官方链接、事实描述和有用文档。禁止提交账号凭据、恶意软件、账号交易或用于破坏安全控制的内容。详见 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
-Add official links, factual descriptions and useful documentation through a Pull Request. Do not submit credentials, malware, account marketplaces or instructions intended to defeat security controls. See [CONTRIBUTING.md](CONTRIBUTING.md).
-
-Code and templates use [MIT](LICENSE). Original documentation uses [CC BY-SA 4.0](LICENSE-CONTENT). Product names and trademarks belong to their respective owners.
+代码和模板采用 [MIT](LICENSE)，原创文档采用 [CC BY-SA 4.0](LICENSE-CONTENT)。产品名称和商标归各自权利人所有。
