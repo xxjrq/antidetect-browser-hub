@@ -8,6 +8,8 @@
 - Chinese entry: https://github.com/xxjrq/antidetect-browser-hub/blob/main/README.md
 - English entry: https://github.com/xxjrq/antidetect-browser-hub/blob/main/README.en.md
 - Gitee mirror: https://gitee.com/xxjrq/antidetect-browser-hub
+- Telegram community: https://t.me/+_y3DoCss8dplY2Fl
+- QQ group: 967818141
 
 ## What this project contains
 

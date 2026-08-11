@@ -166,6 +166,13 @@ Canvas · WebGL · AudioContext · 字体指纹 · TLS · WebRTC · DNS · Cooki
 - [术语表](docs/zh-CN/glossary.md)
 - [安全与合规使用](docs/zh-CN/safety.md)
 
+## 💬 社区交流
+
+- Telegram： [EasyBR Anti-Detect Browser Community](https://t.me/+_y3DoCss8dplY2Fl)
+- QQ 群： `967818141` · 群名：`EasyBR 指纹浏览器交流社区`
+
+社区简介：分享指纹浏览器、防关联浏览器、浏览器指纹检测、自动化与代理资源。EasyBR 官方社区，用于产品交流、问题反馈和资源更新。禁止账号交易、验证码绕过、恶意采集及违法内容。
+
 ## 贡献
 
 欢迎提交官方链接、事实描述和有用文档。禁止提交账号凭据、恶意软件、账号交易或用于破坏安全控制的内容。详见 [CONTRIBUTING.md](CONTRIBUTING.md)。
