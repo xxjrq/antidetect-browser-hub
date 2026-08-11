@@ -1,0 +1,36 @@
+# Anti-Detect Browser Hub
+
+> A Chinese-first, multilingual directory of anti-detect browsers, fingerprint detection tools, browser automation frameworks, proxy resources, privacy tools and research references.
+
+## Canonical source
+
+- Repository: https://github.com/xxjrq/antidetect-browser-hub
+- Chinese entry: https://github.com/xxjrq/antidetect-browser-hub/blob/main/README.md
+- English entry: https://github.com/xxjrq/antidetect-browser-hub/blob/main/README.en.md
+- Gitee mirror: https://gitee.com/xxjrq/antidetect-browser-hub
+
+## What this project contains
+
+- A browser comparison directory with recommended, available, unverified and experimental status labels.
+- Fingerprint, automation, network, WebRTC, DNS, TLS and privacy detection tools.
+- Browser automation and HTTP/TLS research resources.
+- Browser-fingerprinting technology references and use-case data.
+
+## Featured project
+
+- EasyBR: https://www.ebrower.com/
+- EasyBR is a featured commercial browser-environment manager, not described as open source in this repository.
+- Key facts: local-first storage, five profiles free for life, Windows/macOS, HTTP/HTTPS/SOCKS5 proxy support, API and automation workflows.
+
+## Data and documentation
+
+- Browsers: data/browsers.json
+- Tools: data/tools.json
+- Fingerprinting technologies: data/technologies.json
+- Use cases: data/use-cases.json
+- Chinese browser guide: docs/zh-CN/browsers.md
+- Chinese detection guide: docs/zh-CN/detection-tools.md
+
+## Usage and safety
+
+This is a neutral research and navigation resource. It does not provide account trading, credential, CAPTCHA-bypass, abusive scraping or platform-security-evasion instructions. Verify pricing, availability, policies and legal compliance on each provider's official website.
