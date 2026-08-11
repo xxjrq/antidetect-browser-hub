@@ -87,15 +87,54 @@
 
 ## 🔍 指纹检测工具
 
-| 工具 | 用途 |
-| ---- | ---- |
-| [BrowserLeaks](https://browserleaks.com/) | Canvas、WebGL、WebRTC、DNS 和浏览器信号检测 |
-| [CreepJS](https://abrahamjuliot.github.io/creepjs/) | 浏览器指纹与环境研究 |
-| [Pixelscan](https://pixelscan.net/) | 浏览器环境与机器人信号检查 |
-| [AmIUnique](https://amiunique.org/fingerprint) | 浏览器唯一性与指纹观察 |
-| [Fingerprint Playground](https://demo.fingerprint.com/playground) | 指纹识别演示 |
+### 综合指纹与隐私检测
 
-完整列表见[指纹检测工具](docs/zh-CN/detection-tools.md)。
+| 工具 | 检测范围 | 状态 |
+| --- | --- | --- |
+| [BrowserLeaks](https://browserleaks.com/) | Canvas、WebGL、WebRTC、DNS、字体和浏览器信号 | ✅ 可用 |
+| [CreepJS](https://abrahamjuliot.github.io/creepjs/) | 深度浏览器指纹与环境研究 | ✅ 可用 |
+| [Pixelscan](https://pixelscan.net/) | 浏览器环境和机器人信号 | ✅ 可用 |
+| [Fingerprint Playground](https://demo.fingerprint.com/playground) | 浏览器识别演示 | ✅ 可用 |
+| [AmIUnique](https://amiunique.org/fingerprint) | 浏览器唯一性与指纹观察 | ✅ 可用 |
+| [EFF Cover Your Tracks](https://coveryourtracks.eff.org/) | 跟踪保护和隐私检查 | ✅ 可用 |
+| [BrowserScan](https://www.browserscan.net/) | 浏览器和网络环境检查 | ✅ 可用 |
+| [WebBrowserTools](https://webbrowsertools.com/) | 多项浏览器信息测试 | ✅ 可用 |
+| [F.vision](https://fv.pro/check-privacy/general) | 隐私检查 | ⚠️ 待核验 |
+
+### 自动化与行为检测
+
+| 工具 | 检测范围 | 状态 |
+| --- | --- | --- |
+| [Sannysoft](https://bot.sannysoft.com/) | 常见自动化信号 | ✅ 可用 |
+| [Rebrowser Bot Detector](https://bot-detector.rebrowser.net/) | 自动化任务与环境检测 | ✅ 可用 |
+| [Brotector](https://kaliiiiiiiiii.github.io/brotector/) | 自动化与浏览器信号 | ✅ 可用 |
+| [Behavioral Bot Classification](https://bot.incolumitas.com/) | 行为分类演示 | ✅ 可用 |
+| [Pixelscan Bot Check](https://pixelscan.net/bot-check) | 机器人信号检查 | ✅ 可用 |
+| [BotChecker](https://botchecker.net/) | 机器人检测 | ⚠️ 可能离线，使用前确认 |
+
+### Canvas、音频与扩展检测
+
+| 工具 | 检测范围 | 状态 |
+| --- | --- | --- |
+| [Audio Fingerprint](https://audiofingerprint.openwpm.com/) | AudioContext 指纹 | ✅ 可用 |
+| [CanvasBlocker Detection Test](https://kkapsner.github.io/CanvasBlocker/test/detectionTest.html) | Canvas 篡改检测 | ✅ 可用 |
+| [Extension Detector](https://z0ccc.github.io/extension-detector/) | 扩展暴露检测 | ✅ 可用 |
+
+### 网络、连接与 IP 检测
+
+| 工具 | 检测范围 | 状态 |
+| --- | --- | --- |
+| [TLS Peet](https://tls.peet.ws/api/all) | TLS、HTTP 和连接特征 | ✅ 可用 |
+| [ProxyDetect](https://proxydetect.live/) | 代理/VPN 识别 | ✅ 可用 |
+| [IPRoyal WebRTC Leak Test](https://iproyal.com/webrtc-leak-test/) | WebRTC 泄漏 | ✅ 可用 |
+| [BrowserLeaks WebRTC](https://browserleaks.com/webrtc) | WebRTC 泄漏 | ✅ 可用 |
+| [BrowserLeaks DNS](https://browserleaks.com/dns) | DNS 泄漏 | ✅ 可用 |
+| [DNS Leak Test](https://dnsleaktest.com/) | DNS 泄漏 | ✅ 可用 |
+| [IPQualityScore](https://www.ipqualityscore.com/) | IP 信誉和风险 | ✅ 可用 |
+| [FingerBank](https://fingerbank.org/) | TCP/设备网络指纹 | ✅ 可用 |
+| [zardaxt](https://github.com/NikolaiT/zardaxt) | 被动 TCP/IP 指纹研究 | ✅ 可用 |
+
+检测工具用于诊断和研究；单项检测不代表“通过”或“无法检测”。完整说明见[指纹检测工具文档](docs/zh-CN/detection-tools.md)。
 
 ## 🤖 浏览器自动化
 
