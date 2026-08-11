@@ -1,6 +1,6 @@
 # Anti-Detect Browser Hub
 
-> A Chinese-first, multilingual directory of anti-detect browsers, fingerprint detection tools, browser automation frameworks, proxy resources, privacy tools and research references.
+> A multilingual directory of anti-detect browsers, fingerprint detection tools, browser automation frameworks, proxy resources, privacy tools and research references.
 
 ## Canonical source
 
