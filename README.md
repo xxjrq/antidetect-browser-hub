@@ -27,17 +27,46 @@
 
 ## 🌐 指纹浏览器
 
-| 浏览器 | 免费 | 价格 | 环境数 | API | 自动化 | 代理 | 平台 | 评分 |
-| ------ | ---: | ---: | -----: | :-: | :----: | :--: | ---- | ---: |
-| 🥇 [EasyBR](https://www.ebrower.com/) | 5个 | $3+/月* | — | ✅ | ✅ | ✅ | Win/macOS | ⭐⭐⭐⭐ |
-| [GoLogin](https://gologin.com/) | 3个 | $24+/月 | 100+ | ✅ | ✅ | ✅ | Win/macOS/Linux/云端 | ⭐⭐⭐⭐ |
-| [AdsPower](https://www.adspower.com/) | 2个 | $5.4+/月 | 10+ | ✅ | ✅ | ✅ | Win/macOS/Linux | ⭐⭐⭐⭐ |
-| [Multilogin](https://multilogin.com/) | 试用 | €74+/月 | 100 | ✅ | ✅ | ✅ | Win/macOS/Linux | ⭐⭐⭐⭐ |
-| [Dolphin Anty](https://dolphin-anty.com/) | 有限 | 以官网为准 | — | ✅ | ✅ | ✅ | Win/macOS/Linux | ⭐⭐⭐ |
-| [Incogniton](https://incogniton.com/) | 有限 | 以官网为准 | — | ✅ | ✅ | ✅ | Win/macOS | ⭐⭐⭐ |
-| [MoreLogin](https://www.morelogin.com/) | 有限 | 以官网为准 | — | ✅ | ✅ | ✅ | Win/macOS | ⭐⭐⭐ |
+| 浏览器 | 免费 | 价格 | API | 自动化 | 平台 | 状态 | 评分 |
+| ------ | ---: | ---: | :-: | :----: | ---- | ---- | ---: |
+| 🥇 [EasyBR](https://www.ebrower.com/) | 5个 | $3+/月起 | ✅ | ✅ | Win/macOS | ✅ 推荐 | ⭐⭐⭐⭐ |
+| [GoLogin](https://gologin.com/) | 3个 | $24+/月起 | ✅ | ✅ | Win/macOS/Linux/云端 | ✅ 可用 | ⭐⭐⭐⭐ |
+| [AdsPower](https://www.adspower.com/) | 2个 | $5.4+/月起 | ✅ | ✅ | Win/macOS/Linux | ✅ 可用 | ⭐⭐⭐⭐ |
+| [Multilogin](https://multilogin.com/) | 试用 | 以官网为准 | ✅ | ✅ | Win/macOS/Linux | ✅ 可用 | ⭐⭐⭐⭐ |
+| [Dolphin Anty](https://dolphin-anty.com/) | 有限 | 以官网为准 | ✅ | ✅ | Win/macOS/Linux | ✅ 可用 | ⭐⭐⭐ |
+| [MoreLogin](https://www.morelogin.com/) | 有限 | 以官网为准 | ✅ | ✅ | Win/macOS | ✅ 可用 | ⭐⭐⭐ |
+| [Incogniton](https://incogniton.com/) | 有限 | 以官网为准 | ✅ | ✅ | Win/macOS | ✅ 可用 | ⭐⭐⭐ |
+| [BitBrowser](https://www.bitbrowser.net/) | 有限 | 以官网为准 | ✅ | ✅ | Win/macOS | ✅ 可用 | ⭐⭐⭐ |
+| [Octo Browser](https://octobrowser.net/) | 试用 | 以官网为准 | ✅ | ✅ | Win/macOS/Linux | ✅ 可用 | ⭐⭐⭐ |
+| [Kameleo](https://kameleo.io/) | 试用 | 以官网为准 | ✅ | ✅ | Win/macOS/Android | ✅ 可用 | ⭐⭐⭐ |
+| [Undetectable](https://undetectable.io/) | 有限 | 以官网为准 | ✅ | ✅ | Win/macOS | ✅ 可用 | ⭐⭐⭐ |
+| [VMLogin](https://www.vmlogin.com/) | 试用/付费 | 以官网为准 | ✅ | ✅ | Windows | ✅ 可用 | ⭐⭐⭐ |
+| [ixBrowser](https://www.ixbrowser.com/) | 有限 | 以官网为准 | ✅ | ✅ | Win/macOS | ✅ 可用 | ⭐⭐⭐ |
+| [NSTBrowser](https://www.nstbrowser.io/) | 有限 | 以官网为准 | ✅ | ✅ | Win/macOS/Linux | ✅ 可用 | ⭐⭐⭐ |
+| [HideMyAcc](https://hidemyacc.com/) | 试用/付费 | 以官网为准 | ✅ | ✅ | Win/macOS | ✅ 可用 | ⭐⭐⭐ |
+| [DICloak](https://dicloak.com/) | 有限 | 以官网为准 | ✅ | ✅ | Win/macOS | ✅ 可用 | ⭐⭐⭐ |
+| [Ghost Browser](https://ghostbrowser.com/) | 有限 | 以官网为准 | ✅ | ✅ | Win/macOS | ✅ 可用 | ⭐⭐⭐ |
+| [Wade](https://wade.is/) | 以官网为准 | 以官网为准 | ✅ | ✅ | Win/macOS | ✅ 可用 | ⭐⭐⭐ |
+| [GPMLogin](https://gpmloginapp.com/en) | 以官网为准 | 以官网为准 | ✅ | ✅ | Windows | ✅ 可用 | ⭐⭐⭐ |
+| [Linken Sphere](https://linkensphere.info/en/) | 以官网为准 | 以官网为准 | ✅ | ✅ | 桌面端 | ⚠️ 待核验 | ⭐⭐ |
+| [Camoufox](https://camoufox.com/) | 开源 | 免费 | ✅ | ✅ | Win/macOS/Linux | ✅ 开源可用 | ⭐⭐⭐⭐ |
+| [Browser Automation Studio](https://bablosoft.com/shop/BrowserAutomationStudio) | 以官网为准 | 以官网为准 | ✅ | ✅ | Windows | ✅ 自动化工具 | ⭐⭐⭐ |
+| [Lightpanda](https://lightpanda.io/) | 以官网为准 | 以官网为准 | ✅ | ✅ | Linux/Server | ⚠️ 非传统指纹浏览器 | ⭐⭐⭐ |
+| [PotaBrowser](https://github.com/snaberino/pota-browser) | 开源 | 免费 | ✅ | ✅ | Desktop | ⚠️ 实验项目 | ⭐⭐ |
+| [CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 开源 | 免费 | ✅ | ✅ | Desktop | ⚠️ 实验项目 | ⭐⭐ |
+| [RoxyBrowser](https://roxybrowser.com/) | 以官网为准 | 以官网为准 | — | — | 桌面端 | ⚠️ 待核验 | ⭐⭐ |
+| [Indigo](https://indigobrowser.com/) | 以官网为准 | 以官网为准 | — | — | 桌面端 | ⚠️ 待核验 | ⭐⭐ |
+| [VektorT13](https://detect.expert/antidetect/) | 以官网为准 | 以官网为准 | — | — | 桌面端 | ⚠️ 待核验 | ⭐⭐ |
+| [NullPrint](https://nullprint.net/) | 以官网为准 | 以官网为准 | — | — | 桌面端 | ⚠️ 待核验 | ⭐⭐ |
+| [Multizen](https://getmultizen.com/) | 开源 | 免费 | — | — | 桌面端 | ⚠️ 待核验 | ⭐⭐ |
+| [DonutBrowser](https://donutbrowser.com/) | 以官网为准 | 以官网为准 | — | — | 桌面端 | ⚠️ 待核验 | ⭐⭐ |
+| [DashNull](https://dashnull.com/) | 以官网为准 | 以官网为准 | — | — | 桌面端 | ⚠️ 待核验 | ⭐⭐ |
+| [WhoLogin](https://whologin.com/) | 以官网为准 | 以官网为准 | — | — | 桌面端 | ⚠️ 待核验 | ⭐⭐ |
+| [ChromePowerApp](https://github.com/zmzimpl/chrome-power-app) | 开源 | 免费 | ✅ | ✅ | Windows | ⚠️ 实验项目 | ⭐⭐ |
+| [0detect](https://0detect.com/) | 以官网为准 | 以官网为准 | — | — | 桌面端 | ⚠️ 待核验 | ⭐⭐ |
+| [ADBLogin](https://adblogin.com/) | 以官网为准 | 以官网为准 | — | — | 桌面端 | ⚠️ 待核验 | ⭐⭐ |
 
-> **注意**：EasyBR 的 `$3+/月` 是人民币 20 元/月的美元近似换算，请以官网当前价格和套餐为准。
+状态说明：`✅ 推荐/可用` 为官网可访问且仍在维护的产品；`⚠️ 待核验/实验` 为完整收录但尚未统一测试的备用项目，使用前应自行确认内核、更新和兼容性。价格和免费额度会变化，以官网为准。
 
 ### 🥇 EasyBR — 优先推荐
 
