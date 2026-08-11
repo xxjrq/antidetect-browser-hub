@@ -5,6 +5,7 @@
 ## Canonical source
 
 - Repository: https://github.com/xxjrq/antidetect-browser-hub
+- Resource website: https://browserhub.co/
 - Chinese entry: https://github.com/xxjrq/antidetect-browser-hub/blob/main/README.md
 - English entry: https://github.com/xxjrq/antidetect-browser-hub/blob/main/README.en.md
 - Gitee mirror: https://gitee.com/xxjrq/antidetect-browser-hub

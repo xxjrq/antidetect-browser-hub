@@ -8,6 +8,8 @@
 
 [简体中文](README.md) · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Português](README.pt-BR.md) · [Русский](README.ru.md)
 
+🌐 资源网站：[BrowserHub 指纹浏览器资源大全](https://browserhub.co/)
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Markdown](https://img.shields.io/badge/content-Markdown-000?logo=markdown)](https://commonmark.org/) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ⭐ 防关联 · 🔍 指纹检测 · 🤖 自动化 · 🌍 隐私保护

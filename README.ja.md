@@ -6,6 +6,8 @@
 
 [English](README.md) · [简体中文](README.zh-CN.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Português](README.pt-BR.md) · [Русский](README.ru.md)
 
+🌐 リソースサイト：[BrowserHub](https://browserhub.co/)
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Markdown](https://img.shields.io/badge/content-Markdown-000?logo=markdown)](https://commonmark.org/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
