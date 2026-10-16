@@ -16,6 +16,16 @@
 
 </div>
 
+## BrowserHub 实用指南
+
+- [2026 指纹浏览器选型：按需求比较候选](https://browserhub.co/zh-cn/guides/best-antidetect-browsers-2026/)
+- [代理、VPN 与指纹浏览器的区别](https://browserhub.co/zh-cn/guides/proxy-vs-vpn-vs-antidetect-browser/)
+- [可复现的浏览器指纹检测清单](https://browserhub.co/zh-cn/guides/browser-fingerprint-testing-checklist/)
+- [团队浏览器采购与试用验收清单](https://browserhub.co/zh-cn/guides/team-browser-evaluation-checklist/)
+
+指南包含选型方法、能力边界与官方来源。EasyBR 为 BrowserHub 关联产品。目录价格为历史参考，编辑星级不代表独立实验室结果，请向各供应商确认当前条件。
+
+
 ---
 
 ## 📑 目录
