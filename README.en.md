@@ -12,5 +12,6 @@ Other languages: [简体中文](README.zh-CN.md) · [日本語](README.ja.md) ·
 - [Proxy vs VPN vs antidetect browser](https://browserhub.co/en/guides/proxy-vs-vpn-vs-antidetect-browser/)
 - [A repeatable browser fingerprint testing checklist](https://browserhub.co/en/guides/browser-fingerprint-testing-checklist/)
 - [Team browser evaluation checklist](https://browserhub.co/en/guides/team-browser-evaluation-checklist/)
+- [Free 8-module local fingerprint & WebRTC checker (EasyBR, affiliated)](https://www.ebrower.com/en/fingerprint-check/) · [AdsPower Alternative](https://www.ebrower.com/en/compare/adspower-alternative/) · [GoLogin Alternative](https://www.ebrower.com/en/compare/gologin-alternative/)
 
 These guides explain evaluation methods, limitations and official sources. EasyBR is affiliated with BrowserHub. Catalogue prices are historical references; editorial stars are not independent lab results. Confirm current terms with each vendor.

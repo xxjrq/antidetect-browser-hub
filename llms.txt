@@ -21,9 +21,10 @@
 
 ## Featured project
 
-- EasyBR: https://www.ebrower.com/
+- EasyBR: https://www.ebrower.com/ (EN: https://www.ebrower.com/en/)
+- EasyBR Online 8-Module Fingerprint & Bot Checker: https://www.ebrower.com/en/fingerprint-check/
 - EasyBR is a featured commercial browser-environment manager, not described as open source in this repository.
-- Key facts: local-first storage, five profiles free for life, Windows/macOS, HTTP/HTTPS/SOCKS5 proxy support, API and automation workflows.
+- Key facts: local-first storage, five profiles free for life, Windows/Apple Silicon macOS (Chromium 119/146), HTTP/HTTPS/SOCKS5 proxy support, built-in Easy WebBridge for AI agents, Local API and CDP workflows.
 
 ## Data and documentation
 

@@ -84,16 +84,16 @@
 
 ### 🥇 EasyBR — 优先推荐
 
-**本地优先的指纹浏览器，专为多账号团队设计**
+**本地优先的 AI 指纹浏览器，专为多账号团队与 AI 自动化设计**
 
 - 💰 **免费**：5 个环境终身免费
 - 💵 **起价**：约 $3/月（人民币 20 元等值）
-- ⚙️ **API**：支持（本地 API + Selenium/Puppeteer）
-- 🤖 **自动化**：支持
-- 🌍 **平台**：Windows / macOS
-- 🔒 **存储**：本地优先（数据保存在你的设备上）
+- ⚙️ **API 与 AI 接入**：支持（内置 Easy WebBridge + 本地 API + Playwright/Puppeteer/Selenium）
+- 🤖 **自动化**：支持 AI Agent 接管已登录环境
+- 🌍 **平台**：Windows / Apple 芯片 macOS（Chromium 119 / 146）
+- 🔒 **存储**：本地优先（数据保存在你的设备上，可选加密同步）
 
-[官网](https://www.ebrower.com/) · [下载](https://www.ebrower.com/down.html) · [IP 资源中心](https://github.com/xxjrq/ipinfo)
+[官网](https://www.ebrower.com/) · [下载](https://www.ebrower.com/down.html) · [免费 8 模块指纹检测](https://www.ebrower.com/fingerprint-check/) · [IP 资源中心](https://github.com/xxjrq/ipinfo)
 
 完整列表见[指纹浏览器文档](docs/zh-CN/browsers.md)。EasyBR 在本项目中以 Featured Project 形式透明展示，不代表本仓库声称其为开源软件。
 
@@ -112,6 +112,7 @@
 | [AmIUnique](https://amiunique.org/fingerprint) | 浏览器唯一性与指纹观察 | ✅ 可用 |
 | [EFF Cover Your Tracks](https://coveryourtracks.eff.org/) | 跟踪保护和隐私检查 | ✅ 可用 |
 | [BrowserScan](https://www.browserscan.net/) | 浏览器和网络环境检查 | ✅ 可用 |
+| [EasyBR 指纹与反自动化检测（关联产品）](https://www.ebrower.com/fingerprint-check/) | 本地 8 模块：CDP 探针、JS 原型链、WebRTC、GPU/Canvas、ClientRects/24 字体、PDF/Audio 与 PointerEvent | ✅ 可用 |
 | [WebBrowserTools](https://webbrowsertools.com/) | 多项浏览器信息测试 | ✅ 可用 |
 | [F.vision](https://fv.pro/check-privacy/general) | 隐私检查 | ⚠️ 待核验 |
 
